@@ -20,7 +20,7 @@ DefineX Final Case - Credit Application System
 * http://localhost:8081/swagger-ui.html#/
 * http://localhost:8081/v2/api-docs
 
-## What needs to be installed?
+## Needs to be installed
 * Java Development Kit (JDK): You will need at least JDK version 8.0
 * Integrated Development Environment (IDE): Eclipse IDE for Java EE Developers
 * Build Tools: Maven
